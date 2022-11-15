@@ -2,6 +2,6 @@
 
 Construir um pequeno sistema (API REST) de usuários e departamentos
 
-Ferramentas
-  Spring Tool Suite (STS) 
+Ferramentas:
+  Spring Tool Suite (STS)| 
   Postman
